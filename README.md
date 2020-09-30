@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hello, I am Connor Davis
 
-<!--
-**connor-davis/connor-davis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=connor-davis&label=Views&color=blue&style=matte" alt="connor-davis" /> </p>
 
 Here are some ideas to get you started:
 
