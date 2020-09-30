@@ -1,9 +1,8 @@
 ### Hello, I am Connor Davis
 
-<div align="center">
-  <p align="left"> <img src="https://img.shields.io/github/stars/connor-davis?affiliations=OWNER&color=gold&logo=github&logoColor=gold&style=for-the-badge" alt="connor-davis" /></p>
-
-  <p align="left"> <img src="https://img.shields.io/github/followers/connor-davis?color=gold&logo=github&logoColor=gold&style=for-the-badge" alt="connor-davis" /> </p>
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="https://img.shields.io/github/stars/connor-davis?affiliations=OWNER&color=gold&logo=github&logoColor=gold&style=for-the-badge" alt="connor-davis" />
+<img src="https://img.shields.io/github/followers/connor-davis?color=gold&logo=github&logoColor=gold&style=for-the-badge" alt="connor-davis" />
 </div>
 
 <a href="https://github.com/connor-davis">
