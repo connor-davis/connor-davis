@@ -2,6 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connor-davis&label=Views&color=blue&style=matte" alt="connor-davis" /> </p>
 
+<a href="https://github.com/connor-davis">
+  <img align="left" alt="Connors's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
