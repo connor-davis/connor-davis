@@ -9,7 +9,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [Iris].
+- 🔭 I’m currently working on [Iris](https://github.com/connor-davis).
 - 🌱 I’m currently learning more about E2EE Messaging Tech.
 - 🤔 I’m looking for help with E2EE & NFC documentation.
 - 💬 Ask me about React or any tech related stuff.
