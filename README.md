@@ -14,7 +14,7 @@
 #### 🌱 I’m currently learning more about E2EE Messaging Tech.
 #### 🤔 I’m looking for help with E2EE & NFC documentation.
 #### 💬 Ask me about React or any tech related stuff.
-#### 📫 How to reach me: [Instagram - @connor.davis._](https://instagram.com/connor.davis._)
+#### 📫 How to reach me: [Discord - dark.io](https://discord.com/channels/@me/297868805202247681)
 #### 😄 Pronouns: He/His
 #### ⚡ Fun fact: I started my learning with programming in my 8th grade in school.
 
