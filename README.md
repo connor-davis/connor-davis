@@ -21,6 +21,16 @@
 <br>
 <br>
 
+**Projects:**  
+
+#### Use-IT Token:
+
+##### [Admin App](https://github.com/connor-davis/UseItTokenAdminFrontend)
+##### [Company App](https://github.com/connor-davis/UseItTokenCompaniesFrontend)
+
+<br>
+<br>
+
 **Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
