@@ -23,7 +23,7 @@
 
 **Projects:**  
 
-#### Use-IT Token: ##### [Admin App](https://github.com/connor-davis/UseItTokenAdminFrontend), ##### [Company App](https://github.com/connor-davis/UseItTokenCompaniesFrontend)
+#### Use-IT Token: [Admin App](https://github.com/connor-davis/UseItTokenAdminFrontend), [Company App](https://github.com/connor-davis/UseItTokenCompaniesFrontend)
 
 <br>
 <br>
