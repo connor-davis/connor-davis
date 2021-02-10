@@ -25,6 +25,8 @@
 
 ##### Use-IT Token: <code>[Admin App](https://github.com/connor-davis/UseItTokenAdminFrontend)</code>, <code>[Company App](https://github.com/connor-davis/UseItTokenCompaniesFrontend)</code>
 
+##### Cool Lake Specialists: <code>[Repo](https://github.com/connor-davis/cool-lake-specialists)</code>, <code>[Website](https://coollake.connordavis.tech)</code>
+
 <br>
 <br>
 
