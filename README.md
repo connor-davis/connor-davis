@@ -10,7 +10,7 @@
 <br>
 <br>
 
-#### 🔭 I’m currently working on [Use-IT Token](https://github.com/connor-davis/UseItTokenAdminFrontend).
+#### 🔭 I’m currently working on [ReUse-It](https://github.com/connor-davis/reuseit).
 #### 🌱 I’m currently learning more about E2EE Messaging Tech.
 #### 🤔 I’m looking for help with E2EE & NFC documentation.
 #### 💬 Ask me about React or any tech related stuff.
@@ -23,7 +23,7 @@
 
 **Projects:**  
 
-##### Use-IT Token: <code>[Admin App](https://github.com/connor-davis/UseItTokenAdminFrontend)</code>, <code>[Company App](https://github.com/connor-davis/UseItTokenCompaniesFrontend)</code>
+##### ReUse-iit: <code>(https://github.com/connor-davis/resuseit)</code>
 
 ##### Cool Lake Specialists: <code>[Repo](https://github.com/connor-davis/cool-lake-specialists)</code>, <code>[Website](https://coollake.connordavis.tech)</code>
 
