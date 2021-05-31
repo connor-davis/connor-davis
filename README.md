@@ -23,7 +23,7 @@
 
 **Projects:**  
 
-##### ReUse-iit: <code>(https://github.com/connor-davis/resuseit)</code>
+##### ReUse-It: <code>[Repo](https://github.com/connor-davis/resuseit)</code>
 
 ##### Cool Lake Specialists: <code>[Repo](https://github.com/connor-davis/cool-lake-specialists)</code>, <code>[Website](https://coollake.connordavis.tech)</code>
 
