@@ -10,7 +10,7 @@
 <br>
 <br>
 
-#### 🔭 I’m currently working on [ReUse-It](https://github.com/connor-davis/reuseit).
+#### 🔭 I’m currently working on [Lone Wolf Desktop](https://github.com/connor-davis/lonewolf-desktop).
 #### 🌱 I’m currently learning more about E2EE Messaging Tech.
 #### 🤔 I’m looking for help with E2EE & NFC documentation.
 #### 💬 Ask me about React or any tech related stuff.
@@ -22,6 +22,8 @@
 <br>
 
 **Projects:**  
+
+##### Lone Wolf Desktop: <code>[Repo](https://github.com/connor-davis/lonewolf-desktop)</code>
 
 ##### ReUse-It: <code>[Repo](https://github.com/connor-davis/resuseit)</code>
 
