@@ -25,7 +25,8 @@
 
 ##### Lone Wolf Desktop: <code>[Repo](https://github.com/connor-davis/lonewolf-desktop)</code>
 
-##### ReUse-It: <code>[Repo](https://github.com/connor-davis/resuseit)</code>
+##### 3rEco Protocol: <code>[Repo](https://github.com/connor-davis/ecomart-protocol)</code>
+##### 3rEco Company App: <code>[Repo](https://github.com/connor-davis/ecomart-company)</code>
 
 ##### Cool Lake Specialists: <code>[Repo](https://github.com/connor-davis/cool-lake-specialists)</code>, <code>[Website](https://coollake.connordavis.tech)</code>
 
