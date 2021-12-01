@@ -23,7 +23,8 @@
 
 **Projects:**  
 
-##### Lone Wolf Web Messenger: <code>[Repo](https://github.com/connor-davis/lonewolf-web)</code>
+##### LoneWolf Messenger: <code>[Repo](https://github.com/connor-davis/lonewolf-messenger)</code>
+##### LoneWolf Protocol: <code>[Repo](https://github.com/connor-davis/lonewolf-protocol)</code>
 
 ##### 3rEco Protocol: <code>[Repo](https://github.com/connor-davis/ecomart-protocol)</code>
 ##### 3rEco Company App: <code>[Repo](https://github.com/connor-davis/ecomart-company)</code>
