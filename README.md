@@ -23,18 +23,11 @@
 
 **Projects:**  
 
-| LoneWolf | Link |
-|-------------|------|
-|Messenger             |<code>[Repo](https://github.com/connor-davis/lonewolf-messenger)</code>      |
-|Protocol             |<code>[Repo](https://github.com/connor-davis/lonewolf-protocol)</code>      |
-
-<br>
-
-| 3rEco | Link |
-|-------------|------|
-|Server            |<code>[Repo](https://github.com/connor-davis/threereco-server)</code>, <code>[Website](https://api.3reco.co.za)</code>      |
-|App             |<code>[Repo](https://github.com/connor-davis/threereco-app)</code>, <code>[Website](https://3reco.co.za)</code>      |
-|Demo             |<code>[Video](https://youtu.be/tyx-qDByIcw)</code>      |
+| LoneWolf | Link | 3rEco | Links |
+|-------------|------|-------------|------|
+|Messenger             |<code>[Repo](https://github.com/connor-davis/lonewolf-messenger)</code>      |Server            |<code>[Repo](https://github.com/connor-davis/threereco-server)</code>, <code>[Website](https://api.3reco.co.za)</code>      |
+|Protocol             |<code>[Repo](https://github.com/connor-davis/lonewolf-protocol)</code>      |App             |<code>[Repo](https://github.com/connor-davis/threereco-app)</code>, <code>[Website](https://3reco.co.za)</code>      |
+|Protocol             |<code>[Repo](https://github.com/connor-davis/lonewolf-protocol)</code>      |Demo             |<code>[Video](https://youtu.be/tyx-qDByIcw)</code>      |
 
 <br>
 
