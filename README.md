@@ -28,6 +28,7 @@
 
 ##### 3rEco Server: <code>[Repo](https://github.com/connor-davis/threereco-server)</code>
 ##### 3rEco App: <code>[Repo](https://github.com/connor-davis/threereco-app)</code>
+##### 3rEco Demo Video: <code>[Video](https://youtu.be/tyx-qDByIcw)</code>
 
 ##### Cool Lake Specialists: <code>[Repo](https://github.com/connor-davis/cool-lake-specialists)</code>, <code>[Website](https://coollake.connordavis.tech)</code>
 
