@@ -23,10 +23,20 @@
 
 **Projects:**  
 
-| Description | Link |
+| LoneWolf | Link |
 |-------------|------|
-|LoneWolf Messenger             |<code>[Repo](https://github.com/connor-davis/lonewolf-messenger)</code>      |
-|LoneWolf Protocol             |<code>[Repo](https://github.com/connor-davis/lonewolf-protocol)</code>      |
+|Messenger             |<code>[Repo](https://github.com/connor-davis/lonewolf-messenger)</code>      |
+|Protocol             |<code>[Repo](https://github.com/connor-davis/lonewolf-protocol)</code>      |
+
+| 3rEco | Link |
+|-------------|------|
+|Server            |<code>[Repo](https://github.com/connor-davis/threereco-server)</code>      |
+|App             |<code>[Repo](https://github.com/connor-davis/threereco-app)</code>      |
+|Demo             |<code>[Video](https://youtu.be/tyx-qDByIcw)</code>      |
+
+| Cool Lake Specialists | Link |
+|-------------|------|
+|             |<code>[Repo](https://github.com/connor-davis/cool-lake-specialists)</code>, <code>[Website](https://coollake.connordavis.tech)</code>      |
 
 ##### LoneWolf Messenger: <code>[Repo](https://github.com/connor-davis/lonewolf-messenger)</code>
 ##### LoneWolf Protocol: <code>[Repo](https://github.com/connor-davis/lonewolf-protocol)</code>
