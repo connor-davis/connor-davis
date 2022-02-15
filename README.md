@@ -23,6 +23,11 @@
 
 **Projects:**  
 
+| Description | Link |
+|-------------|------|
+|LoneWolf Messenger             |      |
+|LoneWolf Protocol             |      |
+
 ##### LoneWolf Messenger: <code>[Repo](https://github.com/connor-davis/lonewolf-messenger)</code>
 ##### LoneWolf Protocol: <code>[Repo](https://github.com/connor-davis/lonewolf-protocol)</code>
 
