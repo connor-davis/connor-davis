@@ -10,7 +10,7 @@
 <br>
 <br>
 
-#### 🔭 I’m currently working on [LoneWolf Messenger](https://github.com/connor-davis/lonewolf-messenger) & [LoneWolf Protocol](https://github.com/connor-davis/lonewolf-protocol).
+#### 🔭 I’m currently working on [Purpose App](https://github.com/connor-davis/purpose-app) & [Purpose Api](https://github.com/connor-davis/purpose-api).
 #### 🌱 I’m currently learning more about E2EE Messaging Tech.
 #### 🤔 I’m looking for help with E2EE & NFC documentation.
 #### 💬 Ask me about React or any tech related stuff.
