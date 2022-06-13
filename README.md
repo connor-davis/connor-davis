@@ -14,7 +14,7 @@
 #### 🌱 I’m currently learning more about E2EE Messaging Tech.
 #### 🤔 I’m looking for help with E2EE & NFC documentation.
 #### 💬 Ask me about React or any tech related stuff.
-#### 📫 How to reach me: [Discord - lupin#0866](https://discord.com/channels/@me/297868805202247681)
+#### 📫 How to reach me: `lupiiin#1594`
 #### 😄 Pronouns: He/His
 #### ⚡ Fun fact: I started my learning with programming in my 8th grade in school.
 
