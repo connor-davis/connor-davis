@@ -31,7 +31,7 @@
 
 | Nathi Africa | Links |
 |--------------|-------|
-|  | <code>[Website](https://github.com/connor-davis/lonewolf-messenger)</code> |
+| Website | <code>[Repo](https://github.com/connor-davis/nathi-africa)</code>, <code>[Website](https://nathiafrica.co.za)</code> |
 <br>
 <br>
 
