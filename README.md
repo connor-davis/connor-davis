@@ -1,68 +1,61 @@
-### Hello, I am Connor Davis 😄
-
-<br>
-
-<div style="display: flex; justify-content: center; align-items: center;">
-<img src="https://img.shields.io/github/stars/connor-davis?affiliations=OWNER&color=gold&logo=github&logoColor=gold&style=for-the-badge" alt="connor-davis" />
-<img src="https://img.shields.io/github/followers/connor-davis?color=gold&logo=github&logoColor=gold&style=for-the-badge" alt="connor-davis" />
+<div align="center">
+  <img height="200" src="./background.png"  />
 </div>
 
-<br>
-<br>
-
-#### 🔭 I’m currently working on [PeerShare](https://github.com/connor-davis/peershare).
-#### 🌱 I’m currently learning more about E2EE Messaging Tech.
-#### 🤔 I’m looking for help with E2EE & NFC documentation.
-#### 💬 Ask me about SolidJs or any tech related stuff.
-#### 📫 How to reach me: `Discord - lupin#1594`
-#### 😄 Pronouns: He/His
-#### ⚡ Fun fact: I started my learning with programming in my 8th grade in school.
-
-<br>
-<br>
-
-**Projects:**  
-
-| LoneWolf | Link | 3rEco | Links | Cool Lake Specialists | Links |
-|-------------|------|-------------|------|-------------|------|
-|Messenger             |<code>[Repo](https://github.com/connor-davis/lonewolf-messenger)</code>      |Server            |<code>[Repo](https://github.com/connor-davis/threereco-server)</code>, <code>[Website](https://api.3reco.co.za)</code>      |Website             |<code>[Repo](https://github.com/connor-davis/cool-lake-specialists)</code>, <code>[Website](https://coollake.connordavis.tech)</code>      |
-|Protocol             |<code>[Repo](https://github.com/connor-davis/lonewolf-protocol)</code>      |App             |<code>[Repo](https://github.com/connor-davis/threereco-app)</code>, <code>[Website](https://3reco.co.za)</code>      |             |      |
-|             |      |Demo             |<code>[Video](https://youtu.be/tyx-qDByIcw)</code>      |             |      |
-
-| Nathi Africa | Links |
-|--------------|-------|
-| Website | <code>[Repo](https://github.com/connor-davis/nathi-africa)</code>, <code>[Website](https://nathiafrica.co.za)</code> |
-<br>
-<br>
-
-**Languages:**  
-
-[![Languages:](https://skillicons.dev/icons?i=javascript,css,html,java,kotlin,rust&perline=3)](https://skillicons.dev)
-
-**Tools:**
-
-[![Tools:](https://skillicons.dev/icons?i=nodejs,nextjs,react&perline=3)](https://skillicons.dev)
-
-**Categories:**  
-<code>Streaming</code>
-<code>Quantum</code>
-
-<br>
-<br>
-
-<a href="https://github.com/connor-davis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connor-davis&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/connor-davis">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=connor-davis&show_icons=true&theme=light&line_height=27" alt="Connor's github stats"/>
-</a>
-
-<br>
-<br>
+###
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-### Be sure to contact me.
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=connor-davis.connor-davis&left_text=My%20Profile%20Views"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=connor-davis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1&custom_title=Github%20Statistics" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=connor-davis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=connor-davis&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=connor-davis&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=connor-davis&radius=16&theme=one-dark&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/connor-davis/connor-davis/output/snake.svg" alt="Snake animation" />
+
+###
