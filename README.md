@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="/github-header-image.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/connor-davis/connor-davis/refs/heads/master/github-header-image.png"  />
 </div>
 
 ###
@@ -7,6 +7,18 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=connor-davis.connor-davis&left_text=My%20Profile%20Views"  />
 </div>
+
+###
+
+<h4 align="left">🧑‍💻 About Me:</h4>
+
+###
+
+<p align="left">I'm a Full-Stack Software Developer from South Africa 🇿🇦<br><br>- I am currently working on top secret tech for Thusa<br>- I am currently studying a Bachelor of Computer Science and Application Development<br>- In my free time I watch nerds on YouTube teach me about new tech.</p>
+
+###
+
+<h4 align="left">🛠️ Languages And Tools I Use:</h4>
 
 ###
 
@@ -43,6 +55,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<h4 align="left">🔥 My Github Statistics:</h4>
 
 ###
 
