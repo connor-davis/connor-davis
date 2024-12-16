@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a Full-Stack Software Developer from South Africa 🇿🇦<br><br>- I am currently working on top secret tech for Thusa<br>- I am currently studying a Bachelor of Computer Science and Application Development<br>- In my free time I watch nerds on YouTube teach me about new tech.</p>
+<p align="left">I'm a Full-Stack Software Developer from South Africa 🇿🇦<br><br>- I am currently working on top secret tech for Thusa<br>- In my free time I watch nerds on YouTube teach me about new tech.</p>
 
 ###
 
