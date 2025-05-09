@@ -95,9 +95,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=connor-davis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1&custom_title=Github%20Statistics" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=connor-davis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=connor-davis&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=connor-davis&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=151619&border=27282A&stroke=27282A&ring=D31266&fire=D31266&currStreakNum=D31266&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
   <img src="https://github-profile-trophy.vercel.app?username=connor-davis&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=connor-davis&radius=16&theme=one-dark&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
