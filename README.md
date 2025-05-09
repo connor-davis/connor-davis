@@ -95,7 +95,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=connor-davis&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=151619&border=27282A&stroke=27282A&ring=D31266&fire=D31266&currStreakNum=D31266&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=connor-davis&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=151619&border=27282A&stroke=27282A&ring=D31266&fire=D31266&currStreakNum=D31266&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB" alt="GitHub Streak" /></a>
   <img src="https://github-profile-trophy.vercel.app?username=connor-davis&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=connor-davis&radius=16&theme=one-dark&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
