@@ -103,7 +103,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/connor-davis/connor-davis/output/snake.svg" alt="Snake animation" />
-
-###
